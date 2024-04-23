@@ -38,6 +38,12 @@ a img {
 a img:hover {
   transform: scale(0.95);
 }
+a.white {
+  color: #fff;
+}
+a.no-border {
+  border-bottom: none !important;
+}
 section:not(:last-of-type) {
   border-bottom: 1px solid var(--accent-dark);
 }
