@@ -73,6 +73,7 @@ img {
 .two   { width: calc(40% - var(--padding)); }
 .three { width: calc(60% - var(--padding)); }
 .half  { width: calc(50% - var(--padding)); }
+.fourth { width: calc(25% - calc(var(--padding) * 3)); }
 
 .mt  { margin-top: var(--padding) }
 .mt2 { margin-top: calc(var(--padding) * 2) }
