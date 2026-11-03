@@ -120,6 +120,18 @@ em {
   font-size: 14px; 
   color: var(--accent-light);
 }
+.social {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 0.75em;
+}
+.social p { margin: 0; }
+.ig-icon {
+  flex: none;
+  width: 32px;
+  height: 32px;
+}
 .caption.white {
   color: #fff;
 }
