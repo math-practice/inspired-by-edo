@@ -127,7 +127,7 @@ em {
   gap: 0.75em;
 }
 .social p { margin: 0; }
-.ig-link {
+.caption a.ig-link {
   flex: none;
   display: flex;
   border-bottom: none;
