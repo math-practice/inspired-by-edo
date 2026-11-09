@@ -38,7 +38,7 @@ a img {
 a img:hover {
   transform: scale(0.95);
 }
-a.white {
+a.white, span.white {
   color: #fff;
 }
 a.no-border {
